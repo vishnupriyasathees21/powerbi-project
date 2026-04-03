@@ -16,3 +16,5 @@ This project analyzes healthcare sales data to identify trends and improve decis
 📂 Files
 - healthcare-sales-analysis.pbix
 
+## 📊 Dashboard Preview
+![Dashboard](dashborad1.png)
